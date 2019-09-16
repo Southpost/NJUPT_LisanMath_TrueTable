@@ -1,0 +1,2 @@
+# NJUPT_LisanMath_TrueTable
+利用真值表法求取主析取范式以及主合取范式的实现
